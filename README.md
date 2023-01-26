@@ -1,2 +1,2 @@
 # ProblemSolving
-LeetCode Problems Trainig 
+LeetCode Problems Training 
